@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Frost Ring",
+	"description" : "Frost Ring is a 3rd level spell in the School of Water Magic. It causes creatures in the hexes surrounding the target hex to receive damage.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-frostring.json"
+	]
+
+}

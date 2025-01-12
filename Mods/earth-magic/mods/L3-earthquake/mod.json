@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Earthquake",
+	"description" : "Earthquake is a 3rd level spell in the School of Earth Magic. The spell does one point of damage to random castle walls and/or arrow towers. Earthquake cannot be cast if the combat is outside a town or in a town which isn't fortified.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-earthquake.json"
+	]
+
+}

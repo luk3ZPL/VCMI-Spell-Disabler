@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Protection from Water",
+	"description" : "Protection from Water is a 1st level spell in the School of Water Magic. It reduces the damage the target allied creature takes from spells in the school of water magic.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-protectWater.json"
+	]
+
+}

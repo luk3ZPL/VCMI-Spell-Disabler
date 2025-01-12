@@ -1,0 +1,10 @@
+{
+	"name" : "Common spells",
+	"description" : "Spells that belongs to all schools of magic.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",
+	"keepDisabled" : false
+
+}

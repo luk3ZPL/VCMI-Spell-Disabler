@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Shield",
+	"description" : "Shield is a 1st level spell in the School of Earth Magic. It reduces melee damage done to target allied stack or all allied stacks.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-shield.json"
+	]
+
+}

@@ -1,0 +1,7 @@
+{
+    "core:fireElemental":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

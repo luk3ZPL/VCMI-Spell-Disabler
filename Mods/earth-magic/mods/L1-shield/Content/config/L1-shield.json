@@ -1,0 +1,7 @@
+{
+    "core:shield":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

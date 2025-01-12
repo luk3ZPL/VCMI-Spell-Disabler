@@ -1,0 +1,7 @@
+{
+    "core:fly":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

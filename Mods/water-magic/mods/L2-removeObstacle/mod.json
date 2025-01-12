@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Remove Obstacle",
+	"description" : "Remove Obstacle is a 2nd level spell in the School of Water Magic. It can remove objects from the battlefield (including inflicted by magic), except integrated objects ie. castle's moats and walls, cliffs and rifts. It is possible to locate Land Mines and Quicksands with an expert Remove Obstacle spell without spending mana just by hovering over hexes with a cursor.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L2-removeObstacle.json"
+	]
+
+}

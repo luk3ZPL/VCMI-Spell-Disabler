@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Summon Earth Elemental",
+	"description" : "Summon Earth Elemental is a 5th level spell in the School of Earth Magic. It summons Earth Elementals. They disappear after the combat ends even if any of them survived, so if you killed all enemies but lost all your army besides the summoned elementals, both sides lose the battle. Only one type of elementals may be summoned each combat.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L5-earthElemental.json"
+	]
+
+}

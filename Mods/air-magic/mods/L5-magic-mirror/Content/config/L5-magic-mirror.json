@@ -1,0 +1,7 @@
+{
+    "core:magicMirror":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

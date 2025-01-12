@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Mirth",
+	"description" : "Mirth is a 3rd level spell in the School of Water Magic. It is a mind spell that increases the morale of the target creature(s).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-mirth.json"
+	]
+
+}

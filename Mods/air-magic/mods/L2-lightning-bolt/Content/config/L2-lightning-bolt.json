@@ -1,0 +1,7 @@
+{
+    "core:lightningBolt":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Implosion",
+	"description" : "Implosion is a 5th level spell in the School of Earth Magic. From the direct damage spells with a damage dealing capability of 300 + (power × 75), it is the most destructive spell for a single creature stack. Implosion also has the highest slope value of 75, which means that for every point power increases Implosion does 75 points more damage. In comparison, Armageddon has 50, Chain Lightning has 40 and Magic Arrow has 10.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L5-implosion.json"
+	]
+
+}

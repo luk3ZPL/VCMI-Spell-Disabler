@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Frenzy",
+	"description" : "Frenzy is a 4th level spell in the School of Fire Magic. It is a mind spell that reduces a target allied troop's defense to 0 whilst raising their attack considerably. Behemoths’ reduce defense ability has a higher priority than Frenzy. This means if a frenzied creature attacks a Behemoth, only the creature's 60% defense (20% for Ancient Behemoth) is used for the attack boost in damage calculations.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-frenzy.json"
+	]
+
+}

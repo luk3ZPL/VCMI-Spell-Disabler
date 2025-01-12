@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Protection from Earth",
+	"description" : "Protection from Earth is a 3rd level spell in the School of Earth Magic. The spell reduces damage from earth magic spells.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-protectEarth.json"
+	]
+
+}

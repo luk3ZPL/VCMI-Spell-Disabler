@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Summon Water Elemental",
+	"description" : "Summon Water Elemental is a 5th level spell in the School of Water Magic. It summons Water Elementals. Only one type of Elementals may be summoned at the time, which means that as long as another type of summoned elementals are present at the combat, no other type of elementals can be summoned (restriction removed in HotA).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L5-waterElemental.json"
+	]
+
+}

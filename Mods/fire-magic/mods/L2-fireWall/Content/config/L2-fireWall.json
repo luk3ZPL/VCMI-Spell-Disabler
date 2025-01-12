@@ -1,0 +1,7 @@
+{
+    "core:fireWall":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

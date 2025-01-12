@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Anti-Magic",
+	"description" : "Anti-Magic is a 3rd level spell in the School of Earth Magic. It makes the target, allied troop immune to spells below certain level. Additionally, it removes negative spell effects (e.g. curse) but not positive spell effects (e.g. bless). Only spell powerful enough to pierce through anti-magic spell's protection is dispel. Master genies are known to cast anti-magic from time to time.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-antiMagic.json"
+	]
+
+}

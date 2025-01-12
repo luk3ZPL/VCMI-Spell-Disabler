@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Berserk",
+	"description" : "Berserk is a 4 level spell in the School of Fire Magic. It is a mind spell that makes the target attack the nearest troop whether it is an ally or enemy. This also includes war machines. If the creature cannot attack anyone, the spell expires after 255 turns.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-berserk.json"
+	]
+
+}

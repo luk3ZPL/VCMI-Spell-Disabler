@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Meteor Shower",
+	"description" : "Meteor Shower is a 4th level spell in the School of Earth Magic. It does damage to all creatures in target hex and all adjacent hexes.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-meteorShower.json"
+	]
+
+}

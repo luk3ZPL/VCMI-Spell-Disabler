@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Dimension Door",
+	"description" : "Dimension Door is a 5th level spell in the School of Air Magic. It teleports the hero to a selected (unoccupied) location on the adventure map. If the movement reduction reduces movement to zero or below, the spell may not be cast. The radius of the spell is 8 squares in top direction and 9 squares in any other direction, diagonal movement included.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L5-dimension-door.json"
+	]
+
+}

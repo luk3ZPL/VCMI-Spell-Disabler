@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Sorrow",
+	"description" : "Sorrow is a 4th level spell in the School of Earth Magic. It is one of the mind spells, and therefore some creatures are immune to it. It reduces the morale of target enemy creature stack.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-sorrow.json"
+	]
+
+}

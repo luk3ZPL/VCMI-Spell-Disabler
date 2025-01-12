@@ -1,0 +1,7 @@
+{
+    "core:forceField":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

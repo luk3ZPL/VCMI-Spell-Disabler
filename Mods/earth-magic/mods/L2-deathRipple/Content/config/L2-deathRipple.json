@@ -1,0 +1,7 @@
+{
+    "core:deathRipple":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

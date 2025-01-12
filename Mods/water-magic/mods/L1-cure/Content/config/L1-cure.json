@@ -1,0 +1,7 @@
+{
+    "core:cure":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

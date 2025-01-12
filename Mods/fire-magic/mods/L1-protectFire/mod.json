@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Protection from Fire",
+	"description" : "Protection from Fire is a 1st level spell in the School of Fire Magic. It reduces the damage the target allied creature takes from spells in the school of fire magic.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-protectFire.json"
+	]
+
+}

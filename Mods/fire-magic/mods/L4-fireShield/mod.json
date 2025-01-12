@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - FireShield",
+	"description" : "Fire Shield is a 4 level spell in the School of Fire Magic. Target allied stack gains a shield of fire, that damages all units trying to attack it in melee. Damage is based on damage done to enchanted unit, considering all attack bonuses of the attacker but not considering all defensive bonuses (Armorer, Attack-Defense difference(negative number), Shield etc) of the enchanted unit, as well as Bad Luck. If the enchanted unit is totally destroyed, only the damage needed to kill it is used as a base for calculations.<br> It should be noted, that even creatures that are normally immune to (fire) magic, for example black dragons, gold dragons or magic elementals, can take damage from this spell.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-fireShield.json"
+	]
+
+}

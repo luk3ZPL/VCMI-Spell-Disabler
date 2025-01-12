@@ -1,0 +1,22 @@
+{
+	"name" : "Spell disabler",
+	"description" : "Disable specific spells from the magic guild and spell book.",
+	"author" : "luk3Z",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "luk3z [at] duck.com",
+	"version" : "1.0",
+	"modType" : "Spells",
+	"language" : "english",
+	"keepDisabled" : true,
+
+	"compatibility" :
+	{
+		"min" : "1.2",
+	},
+
+	"changelog" :
+    {
+        "1.0"   : [ "Initial release" ],
+    },
+}

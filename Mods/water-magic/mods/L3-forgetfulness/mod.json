@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Forgetfulness",
+	"description" : "Forgetfulness is a 3rd level spell in the School of Water Magic. It is a mind spell that makes an enemy creature(s) unable to use their ranged attack(s) and, to some degree, their melee attack(s). Bugs: Contrary to description and other spells, advanced level affects all enemy ranged units (fixed in HotA).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-forgetfulness.json"
+	]
+
+}

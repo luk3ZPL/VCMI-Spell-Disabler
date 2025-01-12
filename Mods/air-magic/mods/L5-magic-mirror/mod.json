@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Magic Mirror",
+	"description" : "Magic Mirror is a 5th level spell in the School of Air Magic. It causes enemy spells cast on target allied troop to have a chance to be redirected to a random enemy troop. In addition to its main effect, Magic Mirror also makes its target immune to Hypnotize spell (the original owner of the already hypnotized creature still can cast Magic Mirror on it but Hypnotize effect won't be removed). In Shadow of Death, Faerie Dragons have Magic Mirror affecting on them on basic level as a special ability.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+	
+	"spells" :
+	[
+		"config/L5-magic-mirror.json"
+	]
+
+}

@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Water Walk",
+	"description" : "Water Walk is a 4th level spell in the School of Water Magic. It enables hero to move over water as if it were land, provided that he ends his turn on land. Movement cost is increased when moving over water.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-waterWalk.json"
+	]
+
+}

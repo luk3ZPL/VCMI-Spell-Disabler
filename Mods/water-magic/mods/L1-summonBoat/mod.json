@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Summon Boat",
+	"description" : "Summon Boat is a 1st level spell in the School of Water Magic. The spell may only be cast on the adventure map and next to a shoreline. In order to Summon Boat spell to work, there must be an unoccupied (free) tile to summon the boat. If there are several available tiles, a boat appears at one of the top priority (see the scheme).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-summonBoat.json"
+	]
+
+}

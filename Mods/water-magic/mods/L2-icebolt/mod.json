@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Ice Bolt",
+	"description" : "Ice Bolt is a 2nd level spell in the School of Water Magic. Drains the body heat from the selected enemy unit and dealing damage to it.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L2-icebolt.json"
+	]
+
+}

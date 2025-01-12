@@ -1,0 +1,10 @@
+{
+	"name" : "Fire Magic",
+	"description" : "School of Fire Magic is one of the four schools of magic. Others are School of Air Magic, School of Earth Magic and School of Water Magic. School of Fire Magic is related to the secondary skill Fire Magic, which allows heroes to cast Fire School spells more effectively and at reduced cost. The cost reduction is the same regardless of whether a hero holds the skill at basic, advanced, or expert level.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",
+	"keepDisabled" : false
+
+}

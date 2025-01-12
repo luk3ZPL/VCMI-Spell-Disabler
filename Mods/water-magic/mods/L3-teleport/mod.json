@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Teleport",
+	"description" : "Teleport is a 3rd level spell in the School of Water Magic. It is the only spell with a spell point cost that changes with every level of magic element secondary skill. Target allied troop instantly moves to an unoccupied target hex.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-teleport.json"
+	]
+
+}

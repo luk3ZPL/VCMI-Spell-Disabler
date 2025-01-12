@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Lightning Bolt",
+	"description" : "Lightning Bolt is a 2nd level spell in the School of Air Magic. Lightning Bolt is one of the game's direct damage spells. It should be noted, that the enemy can render his units immune to Lightning Bolt's effect with Pendant of Negativity.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+	
+	"spells" :
+	[
+		"config/L2-lightning-bolt.json"
+	]
+
+}

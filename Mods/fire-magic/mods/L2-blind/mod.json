@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Blind",
+	"description" : "Blind is a 2nd level spell in the School of Fire Magic. It is a mind spell that makes the blinded creature stack immobile and completely lose its turn to act in combat. Blind can be removed with Cure and Dispel, and it is removed if the creature is attacked in any way or the duration of the spell ends. If Blind is removed from a creature, it will have a chance to act on its turn as it normally would according to its initiative, or if its turn has already passed for the round, it will act immediately.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L2-blind.json"
+	]
+
+}

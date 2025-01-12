@@ -1,0 +1,7 @@
+{
+    "core:earthquake":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

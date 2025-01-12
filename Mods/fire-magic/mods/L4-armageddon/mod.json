@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Armageddon",
+	"description" : "Armageddon is a 4th level spell in the School of Fire Magic. It damages all creatures on the battlefield, including the caster's own troops. However, a few creatures can resist the spell due to their spell immunities. This allows to use specific tactics, including:<br>- Dragogeddon (using only Gold and/or Black Dragons in the battle. Green and Red Dragons will suffer from Armageddon, as they are not immune to level 4 spells, and are therefore useless in Dragogeddon)<br>- Conflux's Armageddon squad, consisting of 4-7 tier Conflux units.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-armageddon.json"
+	]
+
+}

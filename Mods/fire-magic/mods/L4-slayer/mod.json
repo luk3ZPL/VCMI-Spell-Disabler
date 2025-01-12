@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Slayer",
+	"description" : "Slayer is a 4th level spell in the School of Fire Magic. It grants the target troop a fixed +8 attack bonus against the specified lvl 7 units, depending on the level of expertise in fire magic. This spell is the strongest attack-increasing effect in game, except possibly Frenzy but also without its defensive drawback, granting +8 attack, but only against very specific 7th level units, and only ever to a single stack per cast.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-slayer.json"
+	]
+
+}

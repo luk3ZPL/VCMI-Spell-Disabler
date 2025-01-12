@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Cure",
+	"description" : "Cure is a 1st level spell in the School of Water Magic. Removes all negative spell effects from the selected friendly unit(s) and heals it's HP.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-cure.json"
+	]
+
+}

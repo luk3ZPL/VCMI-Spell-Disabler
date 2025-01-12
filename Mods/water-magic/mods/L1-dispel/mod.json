@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Dispel",
+	"description" : "Dispel is a 1st level spell in the School of Water Magic. Although the description states that Dispel removes all spells from creatures, it is not true as it does not remove effects of the Disrupting Ray spell. However, it can remove all other spells including Anti-Magic (only with advanced or expert water magic). Additionally, Dispel removes effects of Zombie's Disease, Scorpicore's Paralyze, Ghost Dragon's Aging, Basilisk's and Medusa's Petrification.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-dispel.json"
+	]
+
+}

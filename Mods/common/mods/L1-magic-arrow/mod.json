@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Magic Arrow",
+	"description" : "Magic Arrow is a 1st level spell, alongside Visions, it is the only spell that belongs to all schools of magic. Magic arrow is one of the game's direct damage spells.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-magicArrow.json"
+	]
+
+}

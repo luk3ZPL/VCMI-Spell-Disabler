@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Sacrifice",
+	"description" : "Sacrifice is a 5th level spell in the School of Fire Magic. The spell destroys (sacrifices) the target living troop in order to resurrect creatures of another stack back to life. The other stack must be receptive to the Resurrection spell. A sacrificed stack leaves an empty hex on the battlefield without anything to be resurrected or summoned as Demons, i.e. without leaving a corpse for any uses.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L5-sacrifice.json"
+	]
+
+}

@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Town Portal",
+	"description" : "Town Portal is a 4th level spell in the School of Earth Magic. At a basic level, it teleports the casting hero to the nearest allied town. However, if the hero has Advanced or Expert Earth Magic, Town Portal teleports the hero to any allied town, at the players choice. The hero cannot teleport to a town which has a visiting hero, thus, if the hero doesn't have at least Advanced Earth Magic and the nearest town is occupied, spell cannot be cast. If there is a hero in the garrison but no visiting one, the town can be reached by the spell.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-townPortal.json"
+	]
+
+}

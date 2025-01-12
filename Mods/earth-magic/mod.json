@@ -1,0 +1,10 @@
+{
+	"name" : "Earth Magic",
+	"description" : "School of Earth Magic is related to the secondary skill Earth Magic, which allows heroes to cast earth school spells more effectively and at the reduced cost. The cost reduction is the same regardless of whether a hero holds the skill at basic, advanced, or expert level.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",
+	"keepDisabled" : false
+
+}

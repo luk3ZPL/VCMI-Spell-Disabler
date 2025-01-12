@@ -1,0 +1,10 @@
+{
+	"name" : "Air Magic",
+	"description" : "School of Air Magic is related to the secondary skill Air Magic, which allows heroes' to cast Air School spells more effectively and at reduced cost. The cost reduction is the same regardless of whether a hero holds the skill at basic, advanced, or expert level.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",
+	"keepDisabled" : false
+
+}

@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Slow",
+	"description" : "Slow is a 1st level spell in the School of Earth Magic. It reduces the speed of target enemy stack. It is one of the game's strongest hindering spells. The new speed is rounded down. Additionally, slow counters the haste spell.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-slow.json"
+	]
+
+}

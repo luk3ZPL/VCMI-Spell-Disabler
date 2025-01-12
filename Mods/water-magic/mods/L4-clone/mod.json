@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Clone",
+	"description" : "Clone is a 4th level spell in the School of Water Magic. It creates an exact replica of the target creature stack, which has all of the original stack's features and special abilities.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-clone.json"
+	]
+
+}

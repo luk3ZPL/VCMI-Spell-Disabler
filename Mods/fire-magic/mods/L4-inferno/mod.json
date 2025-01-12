@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Inferno",
+	"description" : "Inferno is a 4th level spell in the School of Fire Magic. It creates massive flames, that covers the target hex and two hexes around it causing damage to all creatures within range.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-inferno.json"
+	]
+
+}

@@ -1,0 +1,7 @@
+{
+    "core:hypnotize":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

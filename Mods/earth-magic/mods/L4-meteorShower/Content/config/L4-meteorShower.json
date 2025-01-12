@@ -1,0 +1,7 @@
+{
+    "core:meteorShower":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

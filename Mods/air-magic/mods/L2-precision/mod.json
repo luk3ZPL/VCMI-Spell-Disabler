@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Precision",
+	"description" : "Precision is a 2nd level spell in the School of Air Magic. It makes target allied creature stack(s) with ranged attack to increase their attack skill when using ranged attack.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+	
+	"spells" :
+	[
+		"config/L2-precision.json"
+	]
+
+}

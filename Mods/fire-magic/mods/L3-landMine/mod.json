@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Land Mine",
+	"description" : "Land Mine is a 3rd level spell in the School of Fire Magic.<br> Produces a number of land mines at random locations. All friendly troops can cross the mines safely. All enemy troops, except those immune, will take damage from the mines, but this spell cannot be cast if the enemy started the battle with at least one unit fighting on its Native Terrain which is not immune to the effects of the spell.<br> In the event the enemy started the battle with only troops that are immune to the effects of this spell, whether or not said enemy units are fighting on native terrain, the spell can still be cast, and the mines will be placed, but this of course will be a waste unless the enemy summons elementals later in the battle.<br> The Tower garrison land mines will do damage to any enemy troop not immune to the effects of this spell, even Tower troops native to snow. As with the Land Mine spell, all friendly creatures can cross the mines safely.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-landMine.json"
+	]
+
+}

@@ -1,0 +1,7 @@
+{
+    "core:slow":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

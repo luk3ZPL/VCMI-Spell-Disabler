@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Resurrection",
+	"description" : "Resurrection is a 4th level spell in the School of Earth Magic. It resurrects dead creatures in target allied stack. With Basic Resurrection, the resurrected creatures which survive are removed at the end of the combat.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-resurrection.json"
+	]
+
+}

@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Counterstrike",
+	"description" : "Counterstrike is a 4th level spell in the School of Air Magic. It enables allied troops to retaliate extra times. The effect becomes a mass spell at expert level. Bug: There is a bug with Counterstrike, so even if it is dispelled, it will still work for the current round. Units immune to Counterstrike: Royal Griffin, Fangarm (HOtA), Gold & Black Dragons, Magic Elementals. Units capable of casting this spell: Master Genies (advanced level).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-counterstrike.json"
+	]
+
+}

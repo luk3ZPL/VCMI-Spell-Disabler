@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Hypnotize",
+	"description" : "Hypnotize is a 3rd level spell in the School of Air Magic. It is one of the mind spells, and therefore some creatures are immune to it. It puts an enemy under the spellcasters control, and are therefore counted as an allied unit. Although the spell description says the hypnotized troop can be attacked without fear of retaliation, this is not true: the unit retaliates as normal. The hypnotized unit does not block enemy shooters. However, a ranged hypnotized unit can be blocked by its previous owner's troops. Hypnotize limitation is based on the current stack size as if it was full health. Artifacts that render units immune to Hypnotize: Pendant of Free WillPendant of Free Will, Badge of CourageBadge of Courage (not in HotA).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-hypnotize.json"
+	]
+
+}

@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Scuttle Boat",
+	"description" : "Scuttle Boat is a 2nd level spell in the School of Water Magic. It destroys unoccupied boats.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L2-scuttleBoat.json"
+	]
+
+}

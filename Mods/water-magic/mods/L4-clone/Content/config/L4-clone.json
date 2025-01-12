@@ -1,0 +1,7 @@
+{
+    "core:clone":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

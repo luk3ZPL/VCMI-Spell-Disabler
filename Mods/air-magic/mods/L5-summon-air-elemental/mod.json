@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Summon Air Elemental",
+	"description" : "Summon Air Elemental is a 5th level spell in the School of Air Magic. It summons a stack of Air Elementals on the first row of combat field; on casting hero's side. The stack will remain among the hero's army for the rest of the combat, or until killed. Only one type of elementals may be summoned during combat, which means that if air elementals have been summoned, then earth, fire or water elementals can not be summoned. Summoned numbers of elementals are equal to twice the hero's power at basic level.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L5-summon-air-elemental.json"
+	]
+
+}

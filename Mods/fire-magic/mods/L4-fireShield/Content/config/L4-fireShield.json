@@ -1,0 +1,7 @@
+{
+    "core:fireShield":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

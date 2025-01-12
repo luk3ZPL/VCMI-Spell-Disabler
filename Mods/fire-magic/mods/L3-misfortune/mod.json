@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Misfortune",
+	"description" : "Misfortune is a 3rd level spell in the School of Fire Magic. It reduces the luck of the target enemy creature(s).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-misfortune.json"
+	]
+
+}

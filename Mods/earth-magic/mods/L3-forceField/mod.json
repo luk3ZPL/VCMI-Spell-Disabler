@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Force Field",
+	"description" : "Force Field is a 3rd level spell in the School of Earth Magic. The spell creates an impassable wall, that can only be removed by expert Remove Obstacle or expert Dispel. It should be noted, that the duration of force field is always two rounds. It can not be increased with spell power or artifacts (Ring, Collar or Cape of Conjuring).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-forceField.json"
+	]
+
+}

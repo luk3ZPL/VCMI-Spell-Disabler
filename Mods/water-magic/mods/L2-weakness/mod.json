@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Weakness",
+	"description" : "Weakness is a 2nd level spell in the School of Water Magic. It reduces the Attack of the target enemy creature(s). Specialists reduce their Attack further, depending on the level of the target.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L2-weakness.json"
+	]
+
+}

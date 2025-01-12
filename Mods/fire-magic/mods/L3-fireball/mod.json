@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Fireball",
+	"description" : "Fireball is a 3 level spell in the School of Fire Magic. Stacks in target hex and its surrounding hexes take damage.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-fireball.json"
+	]
+
+}

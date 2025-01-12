@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Stone Skin",
+	"description" : "Stone Skin is a 1st level spell in the School of Earth Magic. It increases target, allied troop's defense.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-stoneSkin.json"
+	]
+
+}

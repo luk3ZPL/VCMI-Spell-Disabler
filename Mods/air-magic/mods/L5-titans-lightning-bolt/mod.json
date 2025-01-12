@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Titan's Lightning Bolt",
+	"description" : "Titan's Lightning Bolt is a 5th level spell in the School of Air Magic. It was introduced to Heroes of Might and Magic III in Shadow of Death expansion with the combination artifact Titan's Thunder. While the assembled artifact is equipped, Titan's Lightning bolt is set into hero's spell book. The spell has no (zero) casting cost and always does 600 points of damage regardless of hero's spell power or level of expertise in Air Magic. However, if the Orb of the Firmament is equipped, the damage is increased to 900 points. Earth and Magma Elementals are immune to Titan's Lightning Bolt, while Air and Storm Elementals are vulnerable to it. However, although Titan's Lightning Bolt appears to be a lightning-based spell, Pendant of Negativity does not make hero's creatures immune to it, as it does for example in the case of Lightning Bolt or Chain Lightning. Because of the zero casting cost, Titan's Lightning Bolt is the most effective damage per spell point spent ratio.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L5-titans-lightning-bolt.json"
+	]
+
+}

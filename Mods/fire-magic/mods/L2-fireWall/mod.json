@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Fire Wall",
+	"description" : "Fire Wall is a 2nd level spell in the School of Fire Magic.<br> Produces a wall of fire. Any unit that's not immune to its effect that passes through it or ends their turn in it will take damage. Can only be removed by advanced/expert Remove Obstacle or expert Dispel.<br> Note: Spell duration is NOT increased by any of the spell-duration boosting artifacts (Ring, Collar & Cape of Conjuring).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L2-fireWall.json"
+	]
+
+}

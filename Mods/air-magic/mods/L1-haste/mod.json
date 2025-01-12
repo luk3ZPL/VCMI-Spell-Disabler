@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Haste",
+	"description" : "Haste is a 1st level spell in the School of Air Magic. It increases speed of target allied creature stack, or in expert level, all allied creature stacks. Additionally, haste is a counter to the spell slow.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-haste.json"
+	]
+
+}

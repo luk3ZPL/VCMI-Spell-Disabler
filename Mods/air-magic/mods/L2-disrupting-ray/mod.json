@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Disrupting Ray",
+	"description" : "Disrupting Ray is a 2nd level spell in the School of Air Magic. It reduces target, enemy creature stack's defense. Disrupting Ray may be cast on same stack repeatedly, making it the only cumulative spell in Heroes of Might and Magic III. The effect of each cast stays until combat ends. It is prone to dispel/cure, and even if the target was killed and resurrected the disrupting ray effect still remains. Usually, the overall effect is limited by zero defense level, but if the target's defense was buffed by spells or a defensive stance, it will go negative after the buffs expire.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+	
+	"spells" :
+	[
+		"config/L2-disrupting-ray.json"
+	]
+
+}

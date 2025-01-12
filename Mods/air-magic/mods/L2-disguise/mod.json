@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Disguise",
+	"description" : "Disguise is a 2nd level spell in the School of Air Magic. It masks the hero's units on the adventure map from enemy players. Disguise is a reconnaissance adventure spell. Expert Disguise represents all troops in the army as the most powerful creature in hero's starting town. If there are several starting towns, then the longest owned town is chosen in the order: Castle - Conflux - Dungeon - Cove - Tower - Stronghold - Rampart - Necropolis - Inferno - Fortress, where Castle is the highest priority. If there are no starting towns, then the hero's class native town is chosen.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+	
+	"spells" :
+	[
+		"config/L2-disguise.json"
+	]
+
+}

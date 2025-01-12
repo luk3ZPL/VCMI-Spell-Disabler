@@ -1,0 +1,15 @@
+{
+	"name" : "Level 4 - Prayer",
+	"description" : "Prayer is a 4th level spell in the School of Water Magic. It increases the Speed, Attack, and Defense stats of a target, allied stack. Specialists increase their Speed, Attack, and Defense further, depending on the level of the target.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L4-prayer.json"
+	]
+
+}

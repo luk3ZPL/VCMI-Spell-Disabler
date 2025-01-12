@@ -1,0 +1,15 @@
+{
+	"name" : "Level 1 - Curse",
+	"description" : "Curse is a 1st level spell in the School of Fire Magic. It is a counterpart for the spell Bless.<br> The game manual incorrectly states that curse makes a unit deal 80% of minimum damage - 1 (to a minimum of 1 damage). It actually makes the troop deal minimum damage - 1 (to a minimum of 1). For units with big damage range, Curse is a complete disaster. Examples include Harpies and Harpy Hags (range 1–4), Hell Hounds and Cerberi (range 2–7), and Air and Storm Elementals (range 2–8).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L1-curse.json"
+	]
+
+}

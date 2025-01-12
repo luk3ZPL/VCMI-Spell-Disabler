@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Visions",
+	"description" : "Visions is a 2nd level spell. Alongside Magic Arrow, it is the only spell that belongs to all schools of magic. Visions is one of the adventure spells.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L2-visions.json"
+	]
+
+}

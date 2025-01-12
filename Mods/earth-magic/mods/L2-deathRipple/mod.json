@@ -1,0 +1,15 @@
+{
+	"name" : "Level 2 - Death Ripple",
+	"description" : "Death Ripple is a 2nd level spell in the School of Earth Magic. It damages all living creatures. Death ripple can only appear in necropolis' mage guild. Additionally, it can be learned from shrine of magic gesture or scholar. Pendant of LifePendant of Life makes its wearer's army immune to the death ripple spell.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L2-deathRipple.json"
+	]
+
+}

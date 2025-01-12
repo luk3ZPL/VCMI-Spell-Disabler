@@ -1,0 +1,15 @@
+{
+	"name" : "Level 3 - Animate Dead",
+	"description" : "Animate Dead is a 3rd level spell in the School of Earth Magic. It permanently reanimates killed undead, allied units similar to Resurrection spell. However, unlike Resurrection, the effect is always permanent regardless of whether the hero has Earth Magic or on what level it is.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L3-animateDead.json"
+	]
+
+}

@@ -1,0 +1,7 @@
+{
+    "core:protectWater":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

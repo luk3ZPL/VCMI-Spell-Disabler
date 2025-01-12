@@ -1,0 +1,15 @@
+{
+	"name" : "Level 5 - Summon Fire Elemental",
+	"description" : "Summon Fire Elemental is a 5th level spell in the School of Fire Magic. It summons fire elementals. Only one type of elementals may be summoned each combat (restriction removed in HotA).",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",	
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/L5-fireElemental.json"
+	]
+
+}

@@ -1,0 +1,7 @@
+{
+    "core:antiMagic":
+    {
+        "type":"ability",
+        "level":0
+    }
+}
