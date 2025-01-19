@@ -1,0 +1,15 @@
+{
+	"name" : "DD Fly WaterWalk",
+	"description" : "Disable 3 adventure map spells.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/disable-dd-fly-ww.json"
+	],
+
+}

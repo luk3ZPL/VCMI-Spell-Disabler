@@ -1,0 +1,17 @@
+{
+    "core:dimensionDoor":
+    {
+        "type":"ability",
+        "level":0
+    },
+    "core:fly":
+    {
+        "type":"ability",
+        "level":0
+    },
+    "core:waterWalk":
+    {
+        "type":"ability",
+        "level":0
+    }
+}

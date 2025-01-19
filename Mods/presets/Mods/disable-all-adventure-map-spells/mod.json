@@ -1,0 +1,15 @@
+{
+	"name" : "Adventure spells",
+	"description" : "Disable all adventure map spells.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/disable-all-adv.json"
+	],
+
+}

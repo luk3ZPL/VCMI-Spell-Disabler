@@ -1,0 +1,15 @@
+{
+	"name" : "All L2 spells",
+	"description" : "Disable all level 2 spells.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",
+	"keepDisabled" : true,
+
+	"spells" :
+	[
+		"config/disable-all-l2.json"
+	],
+
+}

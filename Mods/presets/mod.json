@@ -1,0 +1,19 @@
+{
+	"name" : "Presets (experimental)",
+	"description" : "Presets for disabled spells.<br>Warning: this submod is experimental therefore hang or crash is very likely.",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"modType" : "Spells",
+	"keepDisabled" : true,
+
+	"conflicts" :
+	[
+		"spell-disabler.air-magic",
+		"spell-disabler.common",
+		"spell-disabler.earth-magic",
+		"spell-disabler.fire-magic",
+		"spell-disabler.water-magic"
+	],
+
+}
